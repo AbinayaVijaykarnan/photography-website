@@ -277,10 +277,7 @@ nav{
     list-style-position: inside;
 }
 
-.works table{
-    position: relative;
-    top:-30px;
-}
+
 .works table td{
     padding:10px;
 }
