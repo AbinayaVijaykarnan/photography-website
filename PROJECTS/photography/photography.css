@@ -11,6 +11,7 @@ body{
 
                             /*Menu bar */
 .nav-container{
+    width:100%;
     background-color:orange; /*this container takes 100%, nav takes 95% width..so this property is used to differentiate..change bgcolor and check*/
     height:15vh;              /*vh ->view port height in percentage ...here it takes 15% in view height*/
 }
@@ -169,6 +170,7 @@ nav{
     background-color:rgba(0, 0, 0, 0.918);
 }
 .coverpage table{
+     width:100%;
     margin:0 auto;
     padding:2% 0;
 }
@@ -251,6 +253,7 @@ nav{
     width:100%;
 }
 .aboutme .maintable{
+     width:100%;
     color:white;
    background-color:rgba(0, 0, 0, 0.918);
     font-size: 20px;
@@ -289,6 +292,7 @@ nav{
 }
 
 .works{
+     width:100%;
     background-color:rgba(0, 0, 0, 0.918);
 }
 .works table td{
@@ -301,6 +305,7 @@ nav{
 
                     /*Footer*/
 .footer{
+     width:100%;
     background-color: orange;
     padding:30px 0;
 }
