@@ -151,11 +151,16 @@ nav{
     }
 }
 
+
 .display{
   transform: translateX(0%);
   
 }
-
+@media only screen and (max-width:450px){
+    .body{
+        background-color:black;
+    }
+}
 
                          /*Coverpage*/
 .coverpage{
